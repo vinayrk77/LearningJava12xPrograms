@@ -1,4 +1,4 @@
-package ex_04_Type_Casting;
+package ex_06_Type_Casting;
 
 public class ex_05_TypeCastig_Narrowing_03 {
     public static void main(String[] args) {

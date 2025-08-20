@@ -1,4 +1,4 @@
-package ex_04_Type_Casting;
+package ex_06_Type_Casting;
 
 public class ex_01_TypeCasting_01 {
     public static void main(String[] args) {
