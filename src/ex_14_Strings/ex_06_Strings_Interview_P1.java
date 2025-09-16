@@ -1,4 +1,4 @@
-package ex_13_Strings;
+package ex_14_Strings;
 
 public class ex_06_Strings_Interview_P1 {
     public static void main(String[] args){
