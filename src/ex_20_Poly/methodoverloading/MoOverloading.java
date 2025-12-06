@@ -1,4 +1,4 @@
-package Poly.methodoverloading;
+package ex_20_Poly.methodoverloading;
 
 public class MoOverloading {
     public static void main(String[] args){
