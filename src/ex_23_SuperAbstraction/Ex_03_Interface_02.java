@@ -1,4 +1,4 @@
-package Ex_23_SuperAbstraction;
+package ex_23_SuperAbstraction;
 
 public class Ex_03_Interface_02 {
 }

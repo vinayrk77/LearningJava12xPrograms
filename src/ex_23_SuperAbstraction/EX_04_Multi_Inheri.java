@@ -1,4 +1,4 @@
-package Ex_23_SuperAbstraction;
+package ex_23_SuperAbstraction;
 
 public class EX_04_Multi_Inheri {
     public static void main(String[] args){

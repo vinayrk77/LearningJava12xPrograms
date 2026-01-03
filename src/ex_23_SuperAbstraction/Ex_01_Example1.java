@@ -1,4 +1,4 @@
-package Ex_23_SuperAbstraction;
+package ex_23_SuperAbstraction;
 
 public class Ex_01_Example1 {
     public static void main(String[] args){

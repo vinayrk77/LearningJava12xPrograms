@@ -1,4 +1,4 @@
-package Ex_22_SuperKeyword;
+package ex_22_SuperKeyword;
 
 public class Ex_02_Example2 {
     public static void main(String[] args){

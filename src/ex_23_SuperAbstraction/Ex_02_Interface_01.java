@@ -1,4 +1,4 @@
-package Ex_23_SuperAbstraction;
+package ex_23_SuperAbstraction;
 
 public class Ex_02_Interface_01 {
     public static void main(String[] args){
