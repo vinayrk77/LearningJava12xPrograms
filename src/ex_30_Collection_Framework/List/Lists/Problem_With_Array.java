@@ -1,4 +1,4 @@
-package ex_30_Collection_Framework;
+package ex_30_Collection_Framework.List.Lists;
 
 public class Problem_With_Array {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package ex_30_Collection_Framework;
+package ex_30_Collection_Framework.List.Lists;
 import java.util.List;
 import java.util.ArrayList;
 
